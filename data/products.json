@@ -4,25 +4,25 @@
             "id" : 1,
             "title" : "Rita",
             "price" : "44.00",
-            "image" : "https://raw.githubusercontent.com/akmniazulalam/orebiApi/main/public/images/alarmClock.png"
+            "image" : "https://raw.githubusercontent.com/akmniazulalam/orebiEcomApi/main/public/images/alarmClock.png"
         },
         {
             "id" : 2,
             "title" : "Rita",
             "price" : "44.00",
-            "image" : "https://raw.githubusercontent.com/akmniazulalam/orebiApi/main/public/images/alarmClock.png"
+            "image" : "https://raw.githubusercontent.com/akmniazulalam/orebiEcomApi/main/public/images/alarmClock.png"
         },
         {
             "id" : 3,
             "title" : "Rita",
             "price" : "44.00",
-            "image" : "https://raw.githubusercontent.com/akmniazulalam/orebiApi/main/public/images/alarmClock.png"
+            "image" : "https://raw.githubusercontent.com/akmniazulalam/orebiEcomApi/main/public/images/alarmClock.png"
         },
         {
             "id" : 4,
             "title" : "Rita",
             "price" : "44.00",
-            "image" : "https://raw.githubusercontent.com/akmniazulalam/orebiApi/main/public/images/alarmClock.png"
+            "image" : "https://raw.githubusercontent.com/akmniazulalam/orebiEcomApi/main/public/images/alarmClock.png"
         }
     ]
 }

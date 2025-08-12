@@ -24,5 +24,79 @@
             "price" : "44.00",
             "image" : "https://raw.githubusercontent.com/akmniazulalam/orebiEcomApi/main/public/images/sunGlass.png"
         }
+    ],
+    "shop" : [
+        {
+            "id" : 1,
+            "title" : "Rita",
+            "price" : "44.00",
+            "image" : "https://raw.githubusercontent.com/akmniazulalam/orebiEcomApi/main/public/images/cup.png"
+        },
+        {
+            "id" : 2,
+            "title" : "Rita",
+            "price" : "44.00",
+            "image" : "https://raw.githubusercontent.com/akmniazulalam/orebiEcomApi/main/public/images/headPhone.png"
+        },
+        {
+            "id" : 3,
+            "title" : "Rita",
+            "price" : "44.00",
+            "image" : "https://raw.githubusercontent.com/akmniazulalam/orebiEcomApi/main/public/images/teaTable.png"
+        },
+        {
+            "id" : 4,
+            "title" : "Rita",
+            "price" : "44.00",
+            "image" : "https://raw.githubusercontent.com/akmniazulalam/orebiEcomApi/main/public/images/cap.png"
+        },
+        {
+            "id" : 5,
+            "title" : "Rita",
+            "price" : "44.00",
+            "image" : "https://raw.githubusercontent.com/akmniazulalam/orebiEcomApi/main/public/images/wallClock.png"
+        },
+        {
+            "id" : 6,
+            "title" : "Rita",
+            "price" : "44.00",
+            "image" : "https://raw.githubusercontent.com/akmniazulalam/orebiEcomApi/main/public/images/productThree.png"
+        },
+        {
+            "id" : 7,
+            "title" : "Rita",
+            "price" : "44.00",
+            "image" : "https://raw.githubusercontent.com/akmniazulalam/orebiEcomApi/main/public/images/sunGlass.png"
+        },
+        {
+            "id" : 8,
+            "title" : "Rita",
+            "price" : "44.00",
+            "image" : "https://raw.githubusercontent.com/akmniazulalam/orebiEcomApi/main/public/images/teaTable.png"
+        },
+        {
+            "id" : 9,
+            "title" : "Rita",
+            "price" : "44.00",
+            "image" : "https://raw.githubusercontent.com/akmniazulalam/orebiEcomApi/main/public/images/cap.png"
+        },
+        {
+            "id" : 10,
+            "title" : "Rita",
+            "price" : "44.00",
+            "image" : "https://raw.githubusercontent.com/akmniazulalam/orebiEcomApi/main/public/images/dustbin.png"
+        },
+        {
+            "id" : 11,
+            "title" : "Rita",
+            "price" : "44.00",
+            "image" : "https://raw.githubusercontent.com/akmniazulalam/orebiEcomApi/main/public/images/dustbin.png"
+        },
+        {
+            "id" : 12,
+            "title" : "Rita",
+            "price" : "44.00",
+            "image" : "https://raw.githubusercontent.com/akmniazulalam/orebiEcomApi/main/public/images/sunGlass.png"
+        }
     ]
 }
